@@ -54,3 +54,8 @@
 }
 #SlideItMoo_items a { padding:0px; margin:3px 0px 3px; clear:both; display:block; background:none; padding:2px; }
 #SlideItMoo_items a img{ 	border: 3px solid #e8e8e8; padding: 1px; background: #fff; }
+.logo
+{
+	position: absolute;
+	top: 30px;
+}
